@@ -44,16 +44,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,gitlab,selenium,bash,linux,vscode,eclipse,visualstudio,godot,unreal,androidstudio&perline=6" alt="🛠️ Development Tools" />
 </p>
-
-
-
-## 🏆 My Github Stats:
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=gogilbert&theme=github_dark">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=gogilbert&count_private=true&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gogilbert&hide=php&theme=github_dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogilbert&hide=php&theme=github_dark" />
-</a>
-</div>
